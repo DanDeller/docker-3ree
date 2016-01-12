@@ -1,4 +1,5 @@
-## ES7 Redux Boilerplate on Docker
+## Universal App Boilerplate
+An example universal JS application written with the 3REE stack, React + Redux + RethinkDB + Express on Docker. A stack for building apps, front and back end, with just Javascript. Inspired by [GordyD](https://github.com/GordyD/3ree)
 
 ### Main Features
 
