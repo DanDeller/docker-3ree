@@ -54,5 +54,5 @@ When you `dinghy up` to start your VM your success message will include some lin
 
 ### Sources
 
-[3REE](https://github.com/GordyD/3ree)
-[ES7 Isomorphic Flux/ReactJS Boilerplate](http://isomorphic.iam4x.fr)
+ - [3REE](https://github.com/GordyD/3ree)
+ - [ES7 Isomorphic Flux/ReactJS Boilerplate](http://isomorphic.iam4x.fr)
